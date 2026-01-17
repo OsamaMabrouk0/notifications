@@ -48,8 +48,19 @@
     "timestamp": "2026-01-10T08:00:00",
     "priority": "low",
     "category": "tips"
-  }
+  },
+  {
+  "id": "notif_1768653132163",
+  "title": "ترحيب",
+  "message": "اهلا بكم في الاصدار الجديد من تطبيق دفعتنا الاصدار 3 ",
+  "icon": "fa-heart",
+  "color": "red",
+  "timestamp": "2026-01-17T12:32:12.163Z",
+  "priority": "low",
+  "category": "announcement"
+}
 ]
+
 
 
 
