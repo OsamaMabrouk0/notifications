@@ -48,17 +48,8 @@
     "timestamp": "2026-01-10T08:00:00",
     "priority": "low",
     "category": "tips"
-  },
-  {
-  "id": "notif_1768652671316",
-  "title": "ترحيب",
-  "message": "مرحبا بك في الاصدار الجديد من التطبيق",
-  "icon": "fa-heart",
-  "color": "red",
-  "timestamp": "2026-01-17T12:24:31.316Z",
-  "priority": "low",
-  "category": "announcement"
-}
+  }
 ]
+
 
 
